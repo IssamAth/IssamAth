@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IssamAth
+- 👋 Hi, I’m Issam Athamena
 - 👀 I’m interested in web designing and programming
 - 🌱 I’m currently learning Tailwind and some other frameworks
 
