@@ -17,10 +17,11 @@
 </p>
 
 <p align="center">
-  <img src="https://your-favorite-project-image.png" alt="Your Project" width="400">
+  <img src="[https://your-favorite-project-image.png](https://ibb.co/tc07Nys)" alt="Your Project" width="400">
 </p>
 
-<h3 align="center">🚀 The Digital Canvas Awaits! 🚀</h3>
+<h3 align="center">🚀 The Digital Ca
+  nvas Awaits! 🚀</h3>
 
 <p align="center">
   Here's a platform where art meets technology, creativity knows no bounds, and innovation takes center stage.
@@ -31,7 +32,7 @@
 </p>
 
 <p align="center">
-  💬 <strong>Get in Touch:</strong> <a href="https://linkedin.com/your-linkedin-profile" target="_blank">LinkedIn</a> | <a href="mailto:your-email@example.com">Email</a>
+  💬 <strong>Get in Touch:</strong> <a href="https://www.linkedin.com/in/issam-athamena/" target="_blank">LinkedIn</a> | <a href="mailto:aymenissamathamena@gmail.com">Email</a>
 </p>
 
 <p align="center">
