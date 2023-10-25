@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-profile-image-url.png" alt="Your Name" width="200" height="200">
+  <img src="https://your-profile-image-url.png" alt="Issam Athamena" width="200" height="200">
 </p>
 
 <h1 align="center">🌟 Welcome to My GitHub Space! 🌟</h1>
