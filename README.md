@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://your-favorite-project-image.png](https://ibb.co/tc07Nys)" alt="Your Project" width="400">
+  <img src="https://ibb.co/tc07Nys" alt="Your Project" width="400">
 </p>
 
 <h3 align="center">🚀 The Digital Ca
