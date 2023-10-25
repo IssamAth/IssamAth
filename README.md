@@ -16,11 +16,6 @@
   🌐 Dive into my <a href="https://issamathamena.site" target="_blank"><strong>Portfolio</strong></a> and embark on a visual journey.
 </p>
 
-<p align="center">
-
-  <img src="![screencapture-blogr-landing-page-main-by-issam-ath-netlify-app-2023-09-18-15_36_33](https://github.com/IssamAth/IssamAth/assets/49134454/189e18ef-1cfd-484d-a8e3-8d8587a9a4ac)" width="400">
-</p>
-
 <h3 align="center">🚀 The Digital Ca
   nvas Awaits! 🚀</h3>
 
