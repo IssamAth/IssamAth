@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <img src="https://ibb.c![screencapture-blogr-landing-page-main-by-issam-ath-netlify-app-2023-09-18-15_36_33](https://github.com/IssamAth/IssamAth/assets/49134454/04c4a0e4-023e-4b2f-819e-579dc42e7b66)
-o/tc07Nys" alt="Your Project" width="400">
+
+  <img src="![screencapture-blogr-landing-page-main-by-issam-ath-netlify-app-2023-09-18-15_36_33](https://github.com/IssamAth/IssamAth/assets/49134454/189e18ef-1cfd-484d-a8e3-8d8587a9a4ac)" width="400">
 </p>
 
 <h3 align="center">🚀 The Digital Ca
