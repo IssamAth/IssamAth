@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  👋 Greetings, fellow explorer of the digital cosmos! I'm Issame Athamena, and my passion is crafting vibrant online experiences. From design to coding, I'm here to turn imagination into reality.
+  👋 Greetings, fellow explorer of the digital cosmos! I'm Issam Athamena, and my passion is crafting vibrant online experiences. From design to coding, I'm here to turn imagination into reality.
 </p>
 
 <p align="center">
